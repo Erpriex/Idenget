@@ -1,0 +1,4 @@
+fr\erpriex\idenget\utils\PacketUtils.class
+fr\erpriex\idenget\commands\CommandIdentity.class
+fr\erpriex\idenget\Idenget.class
+fr\erpriex\idenget\listeners\PlayerJoinListener.class

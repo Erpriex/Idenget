@@ -1,0 +1,9 @@
+name: Idenget
+author: Erpriex
+version: 1.0
+website: https://github.com/Erpriex/Idenget
+main: fr.erpriex.idenget.Idenget
+commands:
+  identity:
+    description: Prendre l'apparence d'un autre joueur
+    permission: indenget.identity
